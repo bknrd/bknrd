@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am currently making personal projects with Python and Go. Computers and books are my two favorite things. I'm looking for a way to combine my two passions.
+
+I'm always up to talk about interesting projects. If you have one you think I'd like, don't hesitate to let me know!
 <!--
 **bknrd/bknrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
